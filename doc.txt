@@ -1,0 +1,1 @@
+create a folder in project : ng g c my_folder_wanna_create/more_folder/... --skip-tests
